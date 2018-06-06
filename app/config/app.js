@@ -22,6 +22,6 @@ export const config = {
   },
   // Log.
   log: {
-    prefix: 'api:',
+    prefix: '/api/v1',
   },
 };
